@@ -1,4 +1,4 @@
-# How to use Ehcache in Spring Boot
+# How to clear ehcache in spring boot
 
 [![Java: 17](https://img.shields.io/badge/Java-17+-green)](#)
 [![Spring Boot: 3.0](https://img.shields.io/badge/Spring--Boot-3.0+-red)](#)
@@ -9,7 +9,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC7T7MMEhY8zYd6ekbDRdIhw?style=social)](http://www.youtube.com/channel/UC7T7MMEhY8zYd6ekbDRdIhw?sub_confirmation=1)
 
 ## YouTube Tutorial
-[![YouTube Video](https://img.youtube.com/vi/EqMNlv7xpP0/0.jpg)](https://www.youtube.com/watch?v=EqMNlv7xpP0)
+[![YouTube Video](https://img.youtube.com/vi/EsuTQScdRsk/0.jpg)](https://www.youtube.com/watch?v=EsuTQScdRsk)
 
 ## Prerequisites
 - JDK 17+
